@@ -35,7 +35,7 @@ var reduceTest = function(){
 
 
 
-// Run a test
+// Run a specific test here in this IIFE.
 (function(){
 
     reduceTest();
